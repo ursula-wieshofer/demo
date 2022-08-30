@@ -1,0 +1,12 @@
+{
+    "classes_mapped_to_teams": [
+        {
+            "team": "APIteams",
+            "class": "openAPI"
+        },
+        {
+            "team": "CodeInsightsTeams",
+            "class": "codeInsight"
+        },
+    ]
+}
